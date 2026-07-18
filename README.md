@@ -49,7 +49,7 @@ I am a passionate **Java Full Stack Developer** with a strong foundation in Java
 
 ## 📌 Projects
 
-### 🛒 Sales Savvy – Online Shopping Application
+### 🛒 Sales Savvy 
 
 A full-stack e-commerce application developed using Java, Spring Boot, Spring Security, JWT, MySQL, and REST APIs.
 
@@ -67,8 +67,8 @@ A system for managing books, users, and library operations.
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: Add your LinkedIn profile link here
-* 📧 Email: Add your professional email here
+* 💼 LinkedIn: www.linkedin.com/in/monija-shaw-5640723a8
+* 📧 Email: monijashaw789@gmail.com
 
 ---
 
