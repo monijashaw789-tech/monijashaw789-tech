@@ -1,16 +1,75 @@
-## Hi there 👋
+# Hi, I'm Monija Shaw 👋
 
-<!--
-**monijashaw789-tech/monijashaw789-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Full Stack Developer | MCA Graduate
 
-Here are some ideas to get you started:
+I am a passionate **Java Full Stack Developer** with a strong foundation in Java and backend development. I enjoy building scalable applications, solving problems, and continuously learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🎓 MCA Graduate
+* 💻 Java Full Stack Developer
+* 🌱 Currently improving my skills in Java, Spring Boot, SQL, and Full Stack Development
+* 🔍 Looking for entry-level opportunities as a Java Developer / Software Engineer
+* 💡 Interested in Backend Development and Full Stack Development
+
+## 🛠️ Technical Skills
+
+### Backend
+
+* Java
+* Spring Boot
+* Spring Security
+* REST APIs
+* Hibernate
+* JPA
+* JDBC
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript
+* React.js
+* Bootstrap
+
+### Database
+
+* MySQL
+* SQL
+
+### Tools & Technologies
+
+* Git
+* GitHub
+* Maven
+* Postman
+* Eclipse
+* Spring Tool Suite (STS)
+* VS Code
+
+## 📌 Projects
+
+### 🛒 Sales Savvy – Online Shopping Application
+
+A full-stack e-commerce application developed using Java, Spring Boot, Spring Security, JWT, MySQL, and REST APIs.
+
+### 🤖 AI Assistant Web Application
+
+A web-based application designed to provide AI-powered assistance using modern web technologies.
+
+### 📚 Library Management System
+
+A system for managing books, users, and library operations.
+
+## 📊 GitHub Stats
+
+![Monija's GitHub Stats](https://github-readme-stats.vercel.app/api?username=monijashaw789-tech\&show_icons=true\&theme=default)
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: Add your LinkedIn profile link here
+* 📧 Email: Add your professional email here
+
+---
+
+⭐ Thanks for visiting my profile!
